@@ -30,7 +30,6 @@
 
 <div align="center">
   <a href="https://www.instagram.com/anderton_rod/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="anderton.rodrigues20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anderton2022/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <img src="https://raw.githubusercontent.com/danielbped/danielbped/573d3c6b47ca73fc60eea5dd0f60cd8b29006fc0/github-contribution-grid-snake.svg" target="_blank"></a>
 
