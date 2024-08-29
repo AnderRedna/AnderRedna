@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hello! I am <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Anderton Rodrigues</i></a> 🤩</h1>
-  <p align="center">I study general development at <a href="https://www.alura.com.br/"><i>Alura</i></a> and share my learning here on Github!
+  <p align="center">Meet <a href="https://www.mariabot.com.br/"><i>Maria</i></a> and share your feedback!</p>
 
   <p align="center">I hope you can find something useful for you here, if you have any questions about something you found here, let me know at  <a href="https://www.linkedin.com/in/anderton2022/"><i>here</i></a> i look forward to talking to you!
 </div>
